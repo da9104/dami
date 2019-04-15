@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "a4b123b2f1a126ff1ae5",
+    "revision": "0442a5578c1b9e02ab3d",
     "url": "/dami/static/css/main.26ed71b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/dami/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "35215bb8f7f458f903fc",
-    "url": "/dami/static/js/2.8ab323c6.chunk.js"
+    "revision": "c6ab47ee152b62d88749",
+    "url": "/dami/static/js/2.7bfa9823.chunk.js"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "a4b123b2f1a126ff1ae5",
-    "url": "/dami/static/js/main.f0fb1b86.chunk.js"
+    "revision": "0442a5578c1b9e02ab3d",
+    "url": "/dami/static/js/main.2107a7d5.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/dami/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/dami/static/media/icons.8e3c7f55.eot"
-  },
-  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/dami/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/dami/static/media/brand-icons.13db00b7.eot"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/dami/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/dami/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/dami/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "35215bb8f7f458f903fc",
+    "revision": "c6ab47ee152b62d88749",
     "url": "/dami/static/css/2.10237298.chunk.css"
   },
   {
-    "revision": "d87cc812558c844ea585028b9a932869",
+    "revision": "a68cf73de35823608b006db9c370ebbb",
     "url": "/dami/index.html"
   }
 ];
