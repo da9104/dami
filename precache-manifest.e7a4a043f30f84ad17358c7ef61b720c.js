@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "897489072ab75c4a6e84",
+    "revision": "469304923c88956743b9",
     "url": "/dami/static/css/main.26ed71b9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/dami/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "461fd8ba64419abf74cc",
-    "url": "/dami/static/js/2.ec081589.chunk.js"
+    "revision": "3390a92812531dff1b12",
+    "url": "/dami/static/js/2.599a24f4.chunk.js"
   },
   {
     "revision": "cd6c777f1945164224dee082abaea03a",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "897489072ab75c4a6e84",
-    "url": "/dami/static/js/main.a654aa57.chunk.js"
+    "revision": "469304923c88956743b9",
+    "url": "/dami/static/js/main.413014a9.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.962a1bf3.svg"
   },
   {
-    "revision": "461fd8ba64419abf74cc",
+    "revision": "3390a92812531dff1b12",
     "url": "/dami/static/css/2.2e7b5c90.chunk.css"
   },
   {
-    "revision": "0f0f09aa37f0e5c4e283c4ccf2ee08a5",
+    "revision": "c23015db9c0320b9a57eccae104533b0",
     "url": "/dami/index.html"
   }
 ];
