@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "dbd9ef693cf2597e7692",
-    "url": "/dami/static/css/main.726d788c.chunk.css"
+    "revision": "8f651955d9b767841e7b",
+    "url": "/dami/static/css/main.82aa15b6.chunk.css"
   },
   {
     "revision": "8c524d515881e36533a6",
@@ -32,19 +32,19 @@ self.__precacheManifest = [
     "url": "/dami/static/media/flags.9c74e172.png"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/dami/static/media/outline-icons.701ae6ab.eot"
-  },
-  {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/dami/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/dami/static/media/outline-icons.701ae6ab.eot"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/dami/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "dbd9ef693cf2597e7692",
+    "revision": "8f651955d9b767841e7b",
     "url": "/dami/static/js/main.30b6b43b.chunk.js"
   },
   {
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/dami/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/dami/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/dami/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/dami/static/media/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/dami/static/css/2.2e7b5c90.chunk.css"
   },
   {
-    "revision": "f043654546a6c8d2cdcf96620a230782",
+    "revision": "da2ad69cf641344b9b8dd21b2fa3ea32",
     "url": "/dami/index.html"
   }
 ];
