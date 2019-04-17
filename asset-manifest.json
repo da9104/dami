@@ -1,5 +1,5 @@
 {
-  "main.css": "/dami/static/css/main.1f21c076.chunk.css",
+  "main.css": "/dami/static/css/main.24d997a7.chunk.css",
   "main.js": "/dami/static/js/main.11e24384.chunk.js",
   "main.js.map": "/dami/static/js/main.11e24384.chunk.js.map",
   "runtime~main.js": "/dami/static/js/runtime~main.2430d272.js",
@@ -8,9 +8,9 @@
   "static/js/2.ec081589.chunk.js": "/dami/static/js/2.ec081589.chunk.js",
   "static/js/2.ec081589.chunk.js.map": "/dami/static/js/2.ec081589.chunk.js.map",
   "index.html": "/dami/index.html",
-  "precache-manifest.ae7cac888e2be5dc86c215f455e122f0.js": "/dami/precache-manifest.ae7cac888e2be5dc86c215f455e122f0.js",
+  "precache-manifest.e76ff9c71f0ff144aef8e91b3df847f2.js": "/dami/precache-manifest.e76ff9c71f0ff144aef8e91b3df847f2.js",
   "service-worker.js": "/dami/service-worker.js",
   "static/css/2.2e7b5c90.chunk.css.map": "/dami/static/css/2.2e7b5c90.chunk.css.map",
-  "static/css/main.1f21c076.chunk.css.map": "/dami/static/css/main.1f21c076.chunk.css.map",
+  "static/css/main.24d997a7.chunk.css.map": "/dami/static/css/main.24d997a7.chunk.css.map",
   "static/media/semantic.min.css": "/dami/static/media/outline-icons.ef60a4f6.woff"
 }
